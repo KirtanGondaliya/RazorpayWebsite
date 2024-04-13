@@ -1,0 +1,23 @@
+.Box1:hover .box1-content a{
+    color:	#0096FF;
+}
+.Box1:hover .box1-content .feather{
+    color:	#0096FF;
+}
+
+.bottomsection .find:hover span{
+    transition:all linear 200ms;
+    background-color:	#0096FF;
+    color:white;
+}
+
+.find:hover .feather{
+    transition:all linear 200ms;
+    background-color:	#0096FF;
+    color:white;
+}
+
+.box3:hover{
+    border:none;
+    filter:drop-shadow( 0.8rem 0.8rem 1.4rem black);
+}
